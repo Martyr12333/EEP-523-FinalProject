@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Primary colors - Bike theme with vibrant blue -->
+    <color name="primary_color">#1976D2</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="primary_light">#42A5F5</color>
+    <color name="primary_variant">#1565C0</color>
+    
+    <!-- Secondary colors - Orange accent for energy -->
+    <color name="secondary_color">#FF6F00</color>
+    <color name="secondary_dark">#E65100</color>
+    <color name="secondary_light">#FFB74D</color>
+    
+    <!-- Background colors -->
+    <color name="background_color">#F5F5F5</color>
+    <color name="surface_color">#FFFFFF</color>
+    <color name="surface_variant">#F8F9FA</color>
+    
+    <!-- Text colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_on_surface">#000000</color>
+    
+    <!-- Status colors -->
+    <color name="success_color">#4CAF50</color>
+    <color name="warning_color">#FF9800</color>
+    <color name="error_color">#F44336</color>
+    <color name="info_color">#2196F3</color>
+    
+    <!-- Navigation colors -->
+    <color name="bottom_nav_selected">#1976D2</color>
+    <color name="bottom_nav_unselected">#9E9E9E</color>
+    
+    <!-- Card and component colors -->
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_elevation">#E0E0E0</color>
+    <color name="divider_color">#E0E0E0</color>
+    
+    <!-- Stats colors -->
+    <color name="speed_color">#2196F3</color>
+    <color name="heart_rate_color">#E91E63</color>
+    <color name="distance_color">#4CAF50</color>
+    <color name="time_color">#FF9800</color>
+    <color name="calories_color">#9C27B0</color>
+    
+    <!-- Special colors -->
+    <color name="recording_active">#F44336</color>
+    <color name="crash_alert">#FF1744</color>
+    <color name="ble_connected">#4CAF50</color>
+    <color name="ble_disconnected">#9E9E9E</color>
+    
+    <!-- UI Colors -->
+    <color name="accent_color">#FF5722</color>
+</resources>
